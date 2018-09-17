@@ -42,9 +42,11 @@
 
 .Description{
     padding-top: 20px;
+    padding left: 30px;
 }
 #CHCILogo{
     text-align: center;
+    padding-right: 25px;
 }
 
 #homepage{
@@ -78,4 +80,11 @@ html
 		0px 4px 4px rgba(0,0,0,4),
 		0px 8px 13px rgba(0,0,0,1),
 		0px 18px 23px rgba(0,0,0,4);
+}
+#contactPic{
+    height:100%;
+    width:100%;
+}
+#contactContainer{
+    padding: 25px;
 }
