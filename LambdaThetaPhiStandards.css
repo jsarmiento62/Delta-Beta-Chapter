@@ -88,3 +88,8 @@ html
 #contactContainer{
     padding: 25px;
 }
+.Position{
+    height: 14%;
+    width:100%;
+    padding-top: 0;
+}
