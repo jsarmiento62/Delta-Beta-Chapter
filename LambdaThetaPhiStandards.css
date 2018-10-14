@@ -93,3 +93,6 @@ html
     width:100%;
     padding-top: 0;
 }
+#navigation,.navbar .navbar-default{
+  background-image: url("src/images/navBackground.jpg");
+}
