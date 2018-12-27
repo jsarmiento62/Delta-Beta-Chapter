@@ -96,3 +96,18 @@ html
 #navigation,.navbar .navbar-default{
   background-image: url("src/images/navBackground.jpg");
 }
+.card-img-top{
+    height: 300px;
+    width: 200px;
+}
+.activeBrothersRow{
+    padding-left: 35px;
+    padding-bottom: 20px;
+}
+
+.card{
+    margin-bottom: 30px;
+}
+.card-text{
+    text-align: center;
+}
