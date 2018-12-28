@@ -102,6 +102,7 @@ html
 }
 .activeBrothersRow{
     padding-left: 35px;
+   padding-right: 45px;
     padding-bottom: 20px;
 }
 
@@ -110,4 +111,7 @@ html
 }
 .card-text{
     text-align: center;
+}
+.jumbotron{
+    background-color:E1c09d;
 }
