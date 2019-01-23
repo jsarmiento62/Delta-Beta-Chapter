@@ -94,7 +94,7 @@ html
     padding-top: 0;
 }
 #navigation,.navbar .navbar-default{
-  background-image: url("src/images/navBackground.jpg");
+  background-image: url("src/Patterns/BrownTriangles.png");
 }
 .card-img-top{
     height: 300px;
@@ -112,6 +112,19 @@ html
 .card-text{
     text-align: center;
 }
-.jumbotron{
-    background-color:E1c09d;
+body
+{
+    background-image: url("./src/Patterns/brown-wallpaper.jpg");
+   
 }
+.jumbotron{
+    background-color: #FFFFFF !important;
+}
+.whiteText{
+    color: #FFFFFF;
+}
+#LuisCHCI
+{
+    padding-top: 15px;
+}
+
