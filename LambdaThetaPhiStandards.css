@@ -134,3 +134,10 @@ body
     width: 500px;
     padding-top: 30px;
 }
+.aboutDesciption{
+    padding-top: 100px;
+}
+.aboutImage{
+    padding-bottom: 30px;
+    float: right;
+}
